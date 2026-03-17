@@ -3,8 +3,7 @@ I'm Patrick
 Automation Specialist & AI Developer
 
 
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [jpatrickcacdac@gmail.com](mailto:jpatrickcacdac@gmail.com)
+* 🌍  portfolio: patcacdac.com
 * 🧠  I'm currently learning DevOps
 
 ### Socials
