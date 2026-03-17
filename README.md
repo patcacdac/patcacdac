@@ -1,5 +1,5 @@
 #  About Me:
-Automation Specialist & AI Developer<br>Website Developer<br>Funnel Design
+Automation Specialist & AI Developer<br>Website Developer<br>Funnel Designer
 
 
 ## 🌐 Socials:
