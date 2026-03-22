@@ -14,7 +14,7 @@ const profile = {
    frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
    tools: [Git, Github, VSCode, Postman, Docker],
-   os: [Linux, Windows],
+   os: [Mac OS, Windows],
    database: [Mysql, FireBase]
   },
   location: "Manila, Philippines",
