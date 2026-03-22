@@ -29,9 +29,9 @@ const profile = {
    os: [Linux, Windows],
    database: [Mysql, FireBase]
   },
-  location: "Indonesia, JawaTimur",
-  Language: [English, Indonesia],
-  hobbies: [Coding, Photography, Travelling],
+  location: "Manila, Philippines",
+  Language: [English, Tagalog],
+  hobbies: [Coding, Gaming, Travelling],
 };
 ```
 
