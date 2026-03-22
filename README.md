@@ -26,7 +26,7 @@ const profile = {
 
 ---
 
-## 🚀 Tech Stack
+## 🏆 Github Achievements 
 
 <p align="center">
   <a href="https://skillicons.dev">
