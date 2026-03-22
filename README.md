@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring **Cloud, DevOps, and MLOps**  
 - 🚀 Passionate about **Infrastructure as Code, Kubernetes, and AI-powered automation**  
-- 👨‍💻 My Portfolio: [portfolio-me-omega.vercel.app](https://portfolio-me-omega.vercel.app/)  
+- 👨‍💻 My Portfolio: [patcacdac.com](https://patcacdac.com/)  
 - 💬 Ask me about **DevOps, Cloud, AI, and Linux**  
 - 📄 I prefer **Linux over Windows** for DevOps workflows  
 - ⚡ Fun fact: **I know how to center a div... and deploy it on Kubernetes!**  
@@ -33,12 +33,6 @@
 🔹 **Languages:** Python, C++, JavaScript, Bash  
 🖥️ **Web Development:** HTML, CSS, GSAP  
 🛠️ **Version Control:** Git, GitHub  
-
----
-
-## 🎖️ Hacktoberfest & Open Source  
-<h2>Hacktober'23 Badges</h2>
-<img src="https://holopin.me/sid346184" alt="Hacktober's Badges" style="max-width: 100%;">
 
 ---
 
