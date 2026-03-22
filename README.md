@@ -2,7 +2,6 @@
 
 
 
-<h2>I'm Patrick Cacdac! 👋</h2>
 
 ```js
 const profile = {
