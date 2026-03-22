@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I'm Ananda Maulana Wahyudi! 👋</h2>
+<h2>I'm Patrick Cacdac! 👋</h2>
 
 ```js
 const profile = {
-  name: "Ananda Maulana Wahyudi",
-  bio: "Freelancer|Full-Stack Web Developer",
-  url: "https://anandamw.site/",
+  name: "Patrick Cacdac",
+  bio: "Automation Specialist | AI Developer | Programmer",
+  url: "https://patcacdac.com/",
   skills: {
     frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
     backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
