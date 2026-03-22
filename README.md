@@ -21,11 +21,6 @@ const profile = {
   hobbies: [Coding, Gaming, Travelling],
 };
 ```
-
-<h1 align="center">Patrick Cacdac</h1>
-<p align="center"><strong><big><big> &nbsp; Automation Specialist | AI Developer | Programmer &nbsp; </big></big></strong></p>
-
-
 <p align="center">🧠 Portfolio: <a href="https://patcacdac.com" target="_blank">patcacdac.com</a></p>
 <br>
 <br>
