@@ -44,14 +44,6 @@ const profile = {
 <p align="center">
   <img
     width="467"
-    src="https://github-readme-stats.vercel.app/api?username=patcacdac&show_icons=true&locale=en&theme=radical&hide_border=true"
-    alt="sid346184"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="467"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sid346184&theme=radical&hide_border=true"
     alt="sid346184"
   />
