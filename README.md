@@ -38,12 +38,6 @@
 
 ## 🏆 GitHub Achievements  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sid346184&theme=radical&hide_border=true" alt="sid346184" />
-  </a>
-</p>
-
 ---
 <p align="center">
   <a href="https://skillicons.dev">
