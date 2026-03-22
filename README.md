@@ -16,7 +16,7 @@ const profile = {
    os: [Mac OS, Windows],
    database: [Mysql, FireBase]
   },
-  location: "Manila, Philippines",
+  location: [Manila, Philippines],
   Language: [English, Tagalog],
   hobbies: [Coding, Gaming, Travelling],
 };
