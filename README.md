@@ -1,7 +1,4 @@
-
-<br>
-<br>
-<img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:10px;display: inline-block;" data-target="animated-image.originalImage">
 
 
 
