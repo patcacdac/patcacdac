@@ -20,9 +20,6 @@ const profile = {
   Language: [English, Tagalog],
   hobbies: [Coding, Gaming, Travelling],
 };
-```
-
-<br>
 
 ---
 
