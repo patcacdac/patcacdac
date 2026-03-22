@@ -1,5 +1,23 @@
 <img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 
+<h2>I'm Ananda Maulana Wahyudi! 👋</h2>
+
+const profile = {
+  name: "Ananda Maulana Wahyudi",
+  bio: "Freelancer|Full-Stack Web Developer",
+  url: "https://anandamw.site/",
+  skills: {
+    frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
+    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
+    tools: [Git, Github, VSCode, Postman, Docker],
+    os: [Linux, Windows],
+    database: [Mysql, FireBase]
+  },
+  location: "Indonesia, JawaTimur",
+  Language: [English, Indonesia],
+  hobbies: [Coding, Photography, Travelling],
+};
+
 <h1 align="center">Patrick Cacdac</h1>
 <p align="center"><strong><big><big> &nbsp; Automation Specialist | AI Developer | Programmer &nbsp; </big></big></strong></p>
 
