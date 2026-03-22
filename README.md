@@ -4,7 +4,7 @@
 <p align="center"><strong><big><big> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </big></big></strong></p>
 
 
- - 🧠 Portfolio:: **[patcacdac.com](https://patcacdac.com/)**
+🧠 Portfolio:: **[patcacdac.com](https://patcacdac.com/)**
 
 
 
