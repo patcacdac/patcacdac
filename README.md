@@ -8,29 +8,7 @@
 
 ---
 
-## 🛠️ Skills & Tools  
-
-### **🚀 Cloud & DevOps**  
-☁ **Cloud Platforms:** AWS, GCP, Azure  
-📦 **Containerization:** Docker, Kubernetes, OpenShift  
-⚙ **Infrastructure as Code:** Terraform, CloudFormation, Pulumi  
-🔄 **CI/CD & Automation:** Jenkins, GitHub Actions, ArgoCD, Spinnaker  
-🔍 **Monitoring & Security:** Prometheus, Grafana, ELK Stack, AWS CloudWatch, HashiCorp Vault  
-
-### **🤖 AI & MLOps**  
-🧠 **Generative AI:** LangChain, Llama, OpenAI, Gemini  
-📊 **Data & ML:** Pandas, NumPy, TensorFlow, PyTorch  
-🔄 **MLOps:** Kubeflow, MLflow, FastAPI, Airflow  
-📡 **Web Scraping & APIs:** Selenium, BeautifulSoup, Yahoo Finance API  
-
-### **💻 Programming & Scripting**  
-🔹 **Languages:** Python, C++, JavaScript, Bash  
-🖥️ **Web Development:** HTML, CSS, GSAP  
-🛠️ **Version Control:** Git, GitHub  
-
----
-
-## 🏆 GitHub Achievements  
+## 🚀 Tech Stack
 
 ---
 <p align="center">
