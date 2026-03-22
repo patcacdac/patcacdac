@@ -29,7 +29,7 @@
 
 ---
 
- ## 📊 GitHub Stats  
+ ## 📊 Pat's GitHub Stats  
 
 
 <p align="center">
