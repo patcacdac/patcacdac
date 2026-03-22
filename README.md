@@ -3,9 +3,7 @@
 <h1 align="center">Patrick Cacdac</h1>
 <p align="center"><strong><big><big> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </big></big></strong></p>
 
- 🔭 Currently focused on **AI Automatio, Cloud, DevOps, MLOps**  
- 🚀 Passionate about **Infrastructure as Code and AI-powered automation**  
- 👨‍💻 My Portfolio: **[patcacdac.com](https://patcacdac.com/)**
+ 🧠 Portfolio:: **[patcacdac.com](https://patcacdac.com/)**
  🧰 Tech Stack: **n8n, GoHighLevel, Zapier, Make, and AI Automation**
 
 ---
