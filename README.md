@@ -21,7 +21,6 @@ const profile = {
   hobbies: [Coding, Gaming, Travelling],
 };
 ```
-<p align="center">🧠 Portfolio: <a href="https://patcacdac.com" target="_blank">patcacdac.com</a></p>
 <br>
 <br>
 <br>
