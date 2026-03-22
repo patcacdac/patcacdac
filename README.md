@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 const profile = {
   name: "Patrick Cacdac",
   bio: "Automation Specialist | AI Developer | Programmer",
-  url: ,patcacdac.com",
+  url: "patcacdac.com",
   skills: {
    frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
