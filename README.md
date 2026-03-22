@@ -1,7 +1,7 @@
 <img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Patrick Cacdac</h1>
-<p align="center"><strong><big><big> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </big></big></strong></p>
+<p align="center"><strong><big><big> &nbsp; Automation Specialist | AI Developer | Programmer &nbsp; </big></big></strong></p>
 
 
 <p align="center">🧠 Portfolio: <a href="https://patcacdac.com" target="_blank">patcacdac.com</a></p>
