@@ -1,12 +1,8 @@
 <img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 
-<!-- Premium header for Patrick Cacdac -->
-<p align="center" style="font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: #888; margin-bottom: 4px;">Portfolio · 2026</p>
 <h1 align="center">Patrick Cacdac</h1>
-<p align="center">✦ &nbsp; Automation Specialist &amp; AI Developer &nbsp; ✦</p>
+<p align="center"> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </p>
 
-<h1 align="center">Hi 👋, I'm Patrick Cacdac</h1>
-<h3 align="center">Automation Specialist & AI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid346184&label=Profile%20views&color=0e75b6&style=flat" alt="sid346184" /> </p>
 
