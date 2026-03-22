@@ -3,8 +3,10 @@
 <h1 align="center">Patrick Cacdac</h1>
 <p align="center"><strong><big><big> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </big></big></strong></p>
 
+
  - 🧠 Portfolio:: **[patcacdac.com](https://patcacdac.com/)**
  - 🧰 Tech Stack: **n8n, GoHighLevel, Zapier, Make, and AI Automation**
+
 
 
 
@@ -14,6 +16,8 @@
 ## 🚀 Tech Stack
 
 ---
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bitbucket,docker,kubernetes,cloudflare,html,css,js,debian,django,express,fastapi,flask,git,github,gitlab,go,jenkins,kafka,linux,mongodb,mysql,nginx,nodejs,npm,opencv,openshift,openstack,postgres,postman,prometheus,py,r,rails,redhat,redis,ruby,sqlite,scala,selenium,tensorflow,terraform,ts,ubuntu,vim,vscode,cpp,c" />
