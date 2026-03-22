@@ -38,12 +38,5 @@ const profile = {
 
  ## 📊 Pat's GitHub Stats  
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=patcacdac&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patcacdac&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   
-<p align="center">
-  <img
-    width="467"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sid346184&theme=radical&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&stroke=FF0000&currStreakNum=FF0000&sideNums=FF0000&background=000000"
-    alt="sid346184"
-  />
-</p>
