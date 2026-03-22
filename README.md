@@ -27,8 +27,6 @@ const profile = {
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ---
 
