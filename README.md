@@ -1,7 +1,7 @@
 <img align="right" alt="coding" src="Me1.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 
-<h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
-<h3 align="center">Cloud | DevOps | Generative AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Patrick Cacdac</h1>
+<h3 align="center">Automation Specialist | AI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid346184&label=Profile%20views&color=0e75b6&style=flat" alt="sid346184" /> </p>
 
