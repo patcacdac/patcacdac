@@ -7,13 +7,13 @@
 const profile = {
   name: "Patrick Cacdac",
   bio: "Automation Specialist | AI Developer | Programmer",
-  url: "patcacdac.com",
+  url: "www.patcacdac.com",
   skills: {
    automation: [n8n, GoHighLevel, Zapier, Make],
    frondend: [Javascript, ReactJS, React Native, TailwindCSS, Bootstrap],
    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
    tools: [Git, Github, VSCode, Postman, Docker],
-   os: [Mac OS, Windows],
+   os: [MacOS, Windows],
    database: [Mysql, FireBase]
   },
   location: [Manila, Philippines],
