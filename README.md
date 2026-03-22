@@ -4,13 +4,7 @@
 <p align="center"><strong><big><big> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </big></big></strong></p>
 
 
-<p align="center">🧠 Portfolio: patcacdac.com </p>
-
-
-
-
-
-
+<p align="center">🧠 <a href="https://patcacdac.com" target="_blank">Portfolio: patcacdac.com</a></p>
 <br>
 <br>
 <br>
@@ -19,12 +13,6 @@
 <br>
 <br>
 <br>
-
-
-
-
-
-
 ---
 ## 🚀 Tech Stack
 
