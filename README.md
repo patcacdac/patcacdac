@@ -1,7 +1,23 @@
 <img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 
+<!--
+**hidaytrahman/hidaytrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h2>I'm Ananda Maulana Wahyudi! 👋</h2>
 
+```js
 const profile = {
   name: "Ananda Maulana Wahyudi",
   bio: "Freelancer|Full-Stack Web Developer",
@@ -17,6 +33,7 @@ const profile = {
   Language: [English, Indonesia],
   hobbies: [Coding, Photography, Travelling],
 };
+```
 
 <h1 align="center">Patrick Cacdac</h1>
 <p align="center"><strong><big><big> &nbsp; Automation Specialist | AI Developer | Programmer &nbsp; </big></big></strong></p>
