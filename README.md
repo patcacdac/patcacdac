@@ -22,7 +22,7 @@ const profile = {
 };
 ```
 
-<h2>I'm Patrick Cacdac! 👋</h2>
+<h2>I'm Patrick Cacdac!👽 </h2>
 
 ---
 
