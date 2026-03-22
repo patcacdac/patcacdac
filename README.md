@@ -18,7 +18,7 @@ const profile = {
   },
   location: [Manila, Philippines],
   Language: [English, Tagalog],
-  hobbies: [Coding, Gaming, Travelling],
+  hobbies: [Coding, Gaming, Running],
 };
 ```
 
