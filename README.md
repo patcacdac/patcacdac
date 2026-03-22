@@ -71,8 +71,3 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=sid346184&theme=radical&hide_border=true"
     alt="sid346184"
   />
-</p>
-
-<p align="center">
-<img align="center" alt="img" src="last1.gif" style="width: 100%; display: inline-block;">
-</p>  
