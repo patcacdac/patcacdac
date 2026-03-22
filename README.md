@@ -21,8 +21,7 @@ const profile = {
   hobbies: [Coding, Gaming, Travelling],
 };
 ```
-<br>
-<br>
+
 <br>
 <br>
 <br>
