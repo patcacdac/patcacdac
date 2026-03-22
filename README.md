@@ -1,7 +1,7 @@
 <img align="right" alt="coding" src="pat.gif"  style="max-width: 100%; z-index:1000 margin-bottom:5px;display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Patrick Cacdac</h1>
-<p align="center"> &nbsp; Automation Specialist &amp; AI Developer &nbsp; </p>
+<p align="center"><strong><big><big>✦ &nbsp; Automation Specialist &amp; AI Developer &nbsp; ✦</big></big></strong></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid346184&label=Profile%20views&color=0e75b6&style=flat" alt="sid346184" /> </p>
