@@ -14,7 +14,7 @@ const profile = {
    backend: [PHP, Laravel, Flutter, NodeJs, ExpressJs],
    tools: [Git, Github, VSCode, Postman, Docker],
    os: [MacOS, Windows],
-   database: [Mysql, FireBase]
+   database: [Supabase, FireBase]
   },
   location: [Manila, Philippines],
   Language: [English, Tagalog],
