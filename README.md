@@ -75,6 +75,4 @@ const patrick = {
 
 ### 💡 *"Automate the boring, build the amazing."*
 
-⭐ Feel free to explore my repos and reach out for collaborations!
-
 </div>
