@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4DD0E1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Patrick!;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
 
-*The first step is to establish that something is possible. Then probability will occur.*
-
 <a href="https://www.patcacdac.com"><img src="https://img.shields.io/badge/Portfolio-4DD0E1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/patcacdac"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/fwatwrick"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -54,6 +52,6 @@
 
 <div align="center">
 
-### 🏃 *"I automate so I can outrun my backlog."*
+### 💡 *"The first step is to establish that something is possible. Then probability will occur."*
 
 </div>
