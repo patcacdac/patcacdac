@@ -68,21 +68,6 @@ const patrick = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=patcacdac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1&icon_color=4DD0E1&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patcacdac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DD0E1" />
-
-<img src="https://streak-stats.demolab.com?user=patcacdac&theme=tokyonight&hide_border=true&background=0d1117&ring=4DD0E1&fire=4DD0E1&currStreakLabel=4DD0E1" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=patcacdac&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Automate the boring, build the amazing."*
