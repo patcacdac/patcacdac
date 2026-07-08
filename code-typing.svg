@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="412" viewBox="0 0 500 412" fill="none">
+  <style>
+    text { font-family: ui-monospace, 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 14px; white-space: pre; }
+    .kw { fill: #ff7b72; }
+    .k  { fill: #79c0ff; }
+    .s  { fill: #a5d6ff; }
+    .p  { fill: #e6edf3; }
+    .clip rect { transform-box: fill-box; transform-origin: left center; }
+    .l1  { animation: t1  24s linear infinite; }
+    .l2  { animation: t2  24s linear infinite; }
+    .l3  { animation: t3  24s linear infinite; }
+    .l4  { animation: t4  24s linear infinite; }
+    .l5  { animation: t5  24s linear infinite; }
+    .l7  { animation: t7  24s linear infinite; }
+    .l8  { animation: t8  24s linear infinite; }
+    .l9  { animation: t9  24s linear infinite; }
+    .l10 { animation: t10 24s linear infinite; }
+    .l11 { animation: t11 24s linear infinite; }
+    .l12 { animation: t12 24s linear infinite; }
+    .l13 { animation: t13 24s linear infinite; }
+    .l15 { animation: t15 24s linear infinite; }
+    .l16 { animation: t16 24s linear infinite; }
+    .l17 { animation: t17 24s linear infinite; }
+    .l18 { animation: t18 24s linear infinite; }
+    @keyframes t1  { 0%   { transform: scaleX(0); animation-timing-function: steps(17); } 2.4%  { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t2  { 0%, 2.4%  { transform: scaleX(0); animation-timing-function: steps(25); } 5.8%  { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t3  { 0%, 5.8%  { transform: scaleX(0); animation-timing-function: steps(46); } 12.2% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t4  { 0%, 12.2% { transform: scaleX(0); animation-timing-function: steps(37); } 17.3% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t5  { 0%, 17.3% { transform: scaleX(0); animation-timing-function: steps(36); } 22.3% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t7  { 0%, 23.2% { transform: scaleX(0); animation-timing-function: steps(39); } 28.6% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t8  { 0%, 28.6% { transform: scaleX(0); animation-timing-function: steps(45); } 34.8% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t9  { 0%, 34.8% { transform: scaleX(0); animation-timing-function: steps(35); } 39.7% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t10 { 0%, 39.7% { transform: scaleX(0); animation-timing-function: steps(45); } 46.0% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t11 { 0%, 46.0% { transform: scaleX(0); animation-timing-function: steps(38); } 51.3% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t12 { 0%, 51.3% { transform: scaleX(0); animation-timing-function: steps(33); } 55.8% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t13 { 0%, 55.8% { transform: scaleX(0); animation-timing-function: steps(36); } 60.8% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t15 { 0%, 61.7% { transform: scaleX(0); animation-timing-function: steps(47); } 68.2% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t16 { 0%, 68.2% { transform: scaleX(0); animation-timing-function: steps(50); } 75.2% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t17 { 0%, 75.2% { transform: scaleX(0); animation-timing-function: steps(42); } 81.0% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    @keyframes t18 { 0%, 81.0% { transform: scaleX(0); animation-timing-function: steps(2);  } 81.3% { transform: scaleX(1); } 99% { transform: scaleX(1); } 100% { transform: scaleX(0); } }
+    .cursor { animation: blink 1s steps(1) infinite, appear 24s linear infinite; }
+    @keyframes blink  { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes appear { 0%, 81%  { visibility: hidden; } 81.5%, 100% { visibility: visible; } }
+  </style>
+
+  <rect x="1" y="1" width="498" height="410" rx="10" fill="#161b22" stroke="#30363d"/>
+  <circle cx="24" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="5" fill="#27c93f"/>
+
+  <defs>
+    <clipPath id="c1"  class="clip"><rect class="l1"  x="18" y="26"  width="145" height="21"/></clipPath>
+    <clipPath id="c2"  class="clip"><rect class="l2"  x="18" y="47"  width="215" height="21"/></clipPath>
+    <clipPath id="c3"  class="clip"><rect class="l3"  x="18" y="68"  width="393" height="21"/></clipPath>
+    <clipPath id="c4"  class="clip"><rect class="l4"  x="18" y="89"  width="330" height="21"/></clipPath>
+    <clipPath id="c5"  class="clip"><rect class="l5"  x="18" y="110" width="308" height="21"/></clipPath>
+    <clipPath id="c7"  class="clip"><rect class="l7"  x="18" y="152" width="334" height="21"/></clipPath>
+    <clipPath id="c8"  class="clip"><rect class="l8"  x="18" y="173" width="385" height="21"/></clipPath>
+    <clipPath id="c9"  class="clip"><rect class="l9"  x="18" y="194" width="300" height="21"/></clipPath>
+    <clipPath id="c10" class="clip"><rect class="l10" x="18" y="215" width="385" height="21"/></clipPath>
+    <clipPath id="c11" class="clip"><rect class="l11" x="18" y="236" width="325" height="21"/></clipPath>
+    <clipPath id="c12" class="clip"><rect class="l12" x="18" y="257" width="283" height="21"/></clipPath>
+    <clipPath id="c13" class="clip"><rect class="l13" x="18" y="278" width="308" height="21"/></clipPath>
+    <clipPath id="c15" class="clip"><rect class="l15" x="18" y="320" width="402" height="21"/></clipPath>
+    <clipPath id="c16" class="clip"><rect class="l16" x="18" y="341" width="440" height="21"/></clipPath>
+    <clipPath id="c17" class="clip"><rect class="l17" x="18" y="362" width="359" height="21"/></clipPath>
+    <clipPath id="c18" class="clip"><rect class="l18" x="18" y="383" width="26"  height="21"/></clipPath>
+  </defs>
+
+  <text x="20" y="41"  clip-path="url(#c1)"  xml:space="preserve"><tspan class="kw">const</tspan><tspan class="p"> patrick = {</tspan></text>
+  <text x="20" y="62"  clip-path="url(#c2)"  xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">name</tspan><tspan class="p">: </tspan><tspan class="s">"Patrick Cacdac"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="83"  clip-path="url(#c3)"  xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">bio</tspan><tspan class="p">: </tspan><tspan class="s">"Automation Specialist | AI Developer"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="104" clip-path="url(#c4)"  xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">location</tspan><tspan class="p">: </tspan><tspan class="s">"Manila, Philippines 🇵🇭"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="125" clip-path="url(#c5)"  xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">languages</tspan><tspan class="p">: [</tspan><tspan class="s">"English"</tspan><tspan class="p">, </tspan><tspan class="s">"Tagalog"</tspan><tspan class="p">],</tspan></text>
+  <text x="20" y="167" clip-path="url(#c7)"  xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">automation</tspan><tspan class="p">: [</tspan><tspan class="s">"n8n"</tspan><tspan class="p">, </tspan><tspan class="s">"Make"</tspan><tspan class="p">, </tspan><tspan class="s">"Zapier"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="188" clip-path="url(#c8)"  xml:space="preserve"><tspan class="p">               </tspan><tspan class="s">"GoHighLevel"</tspan><tspan class="p">, </tspan><tspan class="s">"Claude Code"</tspan><tspan class="p">],</tspan></text>
+  <text x="20" y="209" clip-path="url(#c9)"  xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">frontend</tspan><tspan class="p">: [</tspan><tspan class="s">"JavaScript"</tspan><tspan class="p">, </tspan><tspan class="s">"React"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="230" clip-path="url(#c10)" xml:space="preserve"><tspan class="p">             </tspan><tspan class="s">"React Native"</tspan><tspan class="p">, </tspan><tspan class="s">"TailwindCSS"</tspan><tspan class="p">],</tspan></text>
+  <text x="20" y="251" clip-path="url(#c11)" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">backend</tspan><tspan class="p">: [</tspan><tspan class="s">"PHP"</tspan><tspan class="p">, </tspan><tspan class="s">"Laravel"</tspan><tspan class="p">, </tspan><tspan class="s">"Python"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="272" clip-path="url(#c12)" xml:space="preserve"><tspan class="p">            </tspan><tspan class="s">"Node.js"</tspan><tspan class="p">, </tspan><tspan class="s">"Express"</tspan><tspan class="p">],</tspan></text>
+  <text x="20" y="293" clip-path="url(#c13)" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">database</tspan><tspan class="p">: [</tspan><tspan class="s">"Supabase"</tspan><tspan class="p">, </tspan><tspan class="s">"Firebase"</tspan><tspan class="p">],</tspan></text>
+  <text x="20" y="335" clip-path="url(#c15)" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">currentFocus</tspan><tspan class="p">: </tspan><tspan class="s">"AI-powered automation systems"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="356" clip-path="url(#c16)" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">funFact</tspan><tspan class="p">: </tspan><tspan class="s">"I automate to have more time to run 🏃"</tspan><tspan class="p">,</tspan></text>
+  <text x="20" y="377" clip-path="url(#c17)" xml:space="preserve"><tspan class="p">  </tspan><tspan class="k">hobbies</tspan><tspan class="p">: [</tspan><tspan class="s">"Coding"</tspan><tspan class="p">, </tspan><tspan class="s">"Gaming"</tspan><tspan class="p">, </tspan><tspan class="s">"Running"</tspan><tspan class="p">],</tspan></text>
+  <text x="20" y="398" clip-path="url(#c18)" xml:space="preserve"><tspan class="p">};</tspan></text>
+
+  <rect class="cursor" x="42" y="384" width="8" height="17" fill="#4DD0E1"/>
+</svg>
