@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4DD0E1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Patrick!+%F0%9F%91%8B;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=4DD0E1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Patrick!;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
 
 *The first step is to establish that something is possible. Then probability will occur.*
 
