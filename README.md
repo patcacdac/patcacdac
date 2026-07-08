@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="coding" width="320" src="pat.gif" />
+<img align="right" alt="coding" width="390" src="pat.gif" />
 
 ```js
 const patrick = {
