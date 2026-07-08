@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## `import { skills } from "patrick"`
 
 <div align="center">
 
