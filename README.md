@@ -23,7 +23,7 @@
 
 ---
 
-## `import { skills } from "patrick"`
+<h2 align="center"><code>import { skills } from "patrick"</code></h2>
 
 <div align="center">
 
