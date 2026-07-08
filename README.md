@@ -31,8 +31,8 @@ const patrick = {
 
 ### 🚀 What I Do
 
-- ⚙️ Build **automation workflows** with n8n, Make, Zapier & GoHighLevel
-- 🤖 Develop **AI-powered solutions** with Claude Code for real business problems
+- ⚙️ Build **automation workflows** with n8n, Make, Zapier, GoHighLevel & Claude Code
+- 🤖 Develop **AI-powered solutions** for real business problems
 - 🌐 Ship **full-stack apps** with React, Laravel & Node.js
 
 <br clear="right"/>
