@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/fwatwrick"><img src="https://img.shields.io/badge/Facebook-fwatwrick-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:automations@pacconsults.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=patcacdac&style=for-the-badge&color=4DD0E1" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=patcacdac&style=for-the-badge&label=PROFILE+VIEWS&color=4DD0E1&labelColor=0d1117&base=1000" alt="Profile views" />
 
 </div>
 
