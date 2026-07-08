@@ -34,7 +34,6 @@ const patrick = {
 - ⚙️ Build **automation workflows** with n8n, Make, Zapier & GoHighLevel
 - 🤖 Develop **AI-powered solutions** for real business problems
 - 🌐 Ship **full-stack apps** with React, Laravel & Node.js
-- 📍 Based in **Manila, Philippines**
 
 <br clear="right"/>
 
