@@ -73,6 +73,6 @@ const patrick = {
 
 <div align="center">
 
-### 💡 *"Automate the boring, build the amazing."*
+### 🏃 *"I automate so I can outrun my backlog."*
 
 </div>
