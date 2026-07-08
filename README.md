@@ -20,20 +20,20 @@
 ```js
 const patrick = {
   name: "Patrick Cacdac",
-  bio: "Automation Specialist | AI Developer",
+  bio: "Automation Specialist | AI Developer | Programmer",
   location: "Manila, Philippines 🇵🇭",
   languages: ["English", "Tagalog"],
+
+  automation: ["n8n", "Make", "Zapier", "GoHighLevel", "Claude Code"],
+  frontend: ["JavaScript", "React", "React Native", "TailwindCSS"],
+  backend: ["PHP", "Laravel", "Python", "Node.js", "Express"],
+  database: ["Supabase", "Firebase"],
+
   currentFocus: "AI-powered automation systems",
   funFact: "I automate things so I have more time to run 🏃",
   hobbies: ["Coding", "Gaming", "Running"],
 };
 ```
-
-### 🚀 What I Do
-
-- ⚙️ Build **automation workflows** with n8n, Make, Zapier, GoHighLevel & Claude Code
-- 🤖 Develop **AI-powered solutions** for real business problems
-- 🌐 Ship **full-stack apps** with React, Laravel & Node.js
 
 <br clear="right"/>
 
