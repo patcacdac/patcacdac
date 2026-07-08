@@ -50,6 +50,7 @@ const patrick = {
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
 <img src="https://img.shields.io/badge/GoHighLevel-00B8D4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 
 **🎨 Frontend**
 
