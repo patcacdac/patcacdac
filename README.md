@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center"><code>import { skills } from "patrick"</code></h2>
+<h2 align="center">⚙️ My Tech Arsenal</h2>
 
 <div align="center">
 
