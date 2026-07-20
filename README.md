@@ -13,9 +13,9 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="pat.gif" draggable="false" />
+<img align="right" alt="coding" width="380" src="pat.gif" draggable="false" oncontextmenu="return false" onmousedown="return false" />
 
-<img src="code-typing.svg" alt="const patrick = { ... } — animated code profile" width="460" draggable="false" />
+<img src="code-typing.svg" alt="const patrick = { ... } — animated code profile" width="460" draggable="false" oncontextmenu="return false" onmousedown="return false" />
 
 <br clear="right"/>
 
