@@ -47,13 +47,3 @@
 <img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vscode,postman,docker" />
 
 </div>
-
----
-
-<h2 align="center">📊 LeetCode Stats</h2>
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/patcacdac?theme=dark&font=Fira%20Code&ext=heatmap" alt="Patrick's LeetCode stats" />
-
-</div>
