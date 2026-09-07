@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="pat.gif?v=2" draggable="false" oncontextmenu="return false" onmousedown="return false" />
+<img align="right" alt="Patrick coding, 404: sleep not found" width="380" src="pat-coding.gif" draggable="false" oncontextmenu="return false" onmousedown="return false" />
 
 <img src="code-typing.svg?v=2" alt="const patrick = { ... } — animated code profile" width="460" draggable="false" oncontextmenu="return false" onmousedown="return false" />
 
