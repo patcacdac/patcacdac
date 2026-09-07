@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/fwatwrick"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="44" /></a>
 <a href="mailto:jpatrickcacdac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="44" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=patcacdac&style=for-the-badge&label=PROFILE+VIEWS&color=4DD0E1&labelColor=0d1117&base=1000" alt="Profile views" height="44" />
+<img src="https://komarev.com/ghpvc/?username=patcacdac&style=for-the-badge&label=PROFILE+VIEWS&color=000000&base=1000" alt="Profile views" height="44" />
 
 </div>
 
