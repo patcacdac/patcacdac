@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/GoHighLevel-00B8D4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Hermes%20Agent-F5A623?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenClaw-D62828?style=for-the-badge&logoColor=white" />
 
 **🎨 Frontend**
 
