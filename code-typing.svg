@@ -43,7 +43,7 @@
     @keyframes appear { 0%, 81%  { visibility: hidden; } 81.5%, 100% { visibility: visible; } }
   </style>
 
-  <rect x="1" y="1" width="498" height="410" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="1" y="1" width="498" height="410" rx="10" fill="#000000" stroke="#30363d"/>
   <circle cx="24" cy="20" r="5" fill="#ff5f56"/>
   <circle cx="42" cy="20" r="5" fill="#ffbd2e"/>
   <circle cx="60" cy="20" r="5" fill="#27c93f"/>
