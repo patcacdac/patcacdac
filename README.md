@@ -8,7 +8,7 @@
 
 <img align="right" alt="Patrick coding, 404: sleep not found" width="380" src="pat-coding.gif" draggable="false" oncontextmenu="return false" onmousedown="return false" />
 
-<img src="code-typing.svg?v=2" alt="const patrick = { ... } — animated code profile" width="460" draggable="false" oncontextmenu="return false" onmousedown="return false" />
+<img src="code-typing-v2.svg" alt="const patrick = { ... } — animated code profile" width="460" draggable="false" oncontextmenu="return false" onmousedown="return false" />
 
 <br clear="right"/>
 
