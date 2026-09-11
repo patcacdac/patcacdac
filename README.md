@@ -2,10 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Patrick!;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
 
-<a href="https://www.patcacdac.com"><img src="https://img.shields.io/badge/Portfolio-4DD0E1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="44" /></a>
-<a href="https://www.linkedin.com/in/patcacdac"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="44" /></a>
-<a href="https://www.facebook.com/fwatwrick"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="44" /></a>
-<a href="mailto:jpatrickcacdac@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="44" /></a>
+<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/portfolio.png" alt="Portfolio" width="64" height="64" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/linkedin.svg" alt="LinkedIn" width="64" height="64" /></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/facebook.svg" alt="Facebook" width="64" height="64" /></a>
+&nbsp;&nbsp;
+<a href="mailto:jpatrickcacdac@gmail.com" title="Email"><img src="icons/gmail.svg" alt="Email" width="64" height="64" /></a>
 
 <img src="https://img.shields.io/badge/PROFILE_VIEWS-1%2C279-FFFFFF?style=for-the-badge&labelColor=555555" alt="Profile views" height="44" />
 
