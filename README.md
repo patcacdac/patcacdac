@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<h3 align="center">⚡ Automation & AI</h3>
+<h3 align="center">⚡ Automations & AI Agents</h3>
 
 <img src="icons/tech-n8n.svg" alt="n8n" width="123" height="78" />
 <img src="icons/tech-make.svg" alt="Make" width="123" height="78" />
