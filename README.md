@@ -38,7 +38,7 @@
 <img src="icons/tech-n8n.svg" alt="n8n" width="123" height="78" />
 <img src="icons/tech-make.svg" alt="Make" width="123" height="78" />
 <img src="icons/tech-zapier.svg" alt="Zapier" width="123" height="78" />
-<img src="icons/tech-gohighlevel.svg" alt="GoHighLevel" width="123" height="78" />
+<img src="icons/tech-gohighlevel-logo.svg" alt="GoHighLevel" width="123" height="78" />
 <br />
 <img src="icons/tech-openai.svg" alt="OpenAI" width="123" height="78" />
 <img src="icons/tech-claude.svg" alt="Claude Code" width="123" height="78" />
