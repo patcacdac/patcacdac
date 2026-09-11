@@ -42,8 +42,8 @@
 <br />
 <img src="icons/tech-openai.svg" alt="OpenAI" width="123" height="78" />
 <img src="icons/tech-claude.svg" alt="Claude Code" width="123" height="78" />
-<img src="icons/tech-hermes.svg?v=2" alt="Hermes Agent" width="123" height="78" />
-<img src="icons/tech-openclaw.svg?v=2" alt="OpenClaw" width="123" height="78" />
+<img src="icons/tech-hermes-logo.svg" alt="Hermes Agent" width="123" height="78" />
+<img src="icons/tech-openclaw-logo.svg" alt="OpenClaw" width="123" height="78" />
 
 **🎨 Frontend**
 
