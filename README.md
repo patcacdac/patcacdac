@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Patrick!;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
 
-<img src="icons/profile-views.svg?v=2" alt="GitHub profile views: 1,279" width="372" height="54" />
-
 </div>
 
 ---
@@ -19,6 +17,8 @@
 <h2 align="center">🌐 My Socials</h2>
 
 <div align="center">
+
+<img src="icons/profile-views.svg?v=2" alt="GitHub profile views: 1,279" width="372" height="54" />
 
 <a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/portfolio-tile.svg?v=2" alt="Portfolio" width="84" height="94" /></a>
 <a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/linkedin-tile.svg?v=2" alt="LinkedIn" width="84" height="94" /></a>
