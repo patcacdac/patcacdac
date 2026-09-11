@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Patrick!;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-1%2C279-FFFFFF?style=for-the-badge&labelColor=555555" alt="Profile views" height="44" />
+<img src="icons/profile-views.svg" alt="GitHub profile views: 1,279" width="372" height="54" />
 
 </div>
 
