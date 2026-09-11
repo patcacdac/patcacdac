@@ -2,13 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Patrick!;Automation+Specialist;AI+Developer;Full-Stack+Programmer" alt="Typing intro" />
 
-<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/portfolio.png" alt="Portfolio" width="64" height="64" /></a>
+<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/portfolio.png?v=2" alt="Portfolio" width="64" height="64" /></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/linkedin.svg" alt="LinkedIn" width="64" height="64" /></a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/facebook.svg" alt="Facebook" width="64" height="64" /></a>
+<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/facebook.svg?v=2" alt="Facebook" width="64" height="64" /></a>
 &nbsp;&nbsp;
-<a href="mailto:jpatrickcacdac@gmail.com" title="Email"><img src="icons/gmail.svg" alt="Email" width="64" height="64" /></a>
+<a href="mailto:jpatrickcacdac@gmail.com" title="Email"><img src="icons/gmail.svg?v=2" alt="Email" width="64" height="64" /></a>
 
 <img src="https://img.shields.io/badge/PROFILE_VIEWS-1%2C279-FFFFFF?style=for-the-badge&labelColor=555555" alt="Profile views" height="44" />
 
