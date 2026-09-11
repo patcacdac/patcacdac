@@ -35,14 +35,15 @@
 
 **⚡ Automation & AI**
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-<img src="https://img.shields.io/badge/GoHighLevel-00B8D4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Hermes%20Agent-F5A623?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenClaw-D62828?style=for-the-badge&logoColor=white" />
+<img src="icons/tech-n8n.svg" alt="n8n" width="123" height="78" />
+<img src="icons/tech-make.svg" alt="Make" width="123" height="78" />
+<img src="icons/tech-zapier.svg" alt="Zapier" width="123" height="78" />
+<img src="icons/tech-gohighlevel.svg" alt="GoHighLevel" width="123" height="78" />
+<br />
+<img src="icons/tech-openai.svg" alt="OpenAI" width="123" height="78" />
+<img src="icons/tech-claude.svg" alt="Claude Code" width="123" height="78" />
+<img src="icons/tech-hermes.svg" alt="Hermes Agent" width="123" height="78" />
+<img src="icons/tech-openclaw.svg" alt="OpenClaw" width="123" height="78" />
 
 **🎨 Frontend**
 
