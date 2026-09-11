@@ -33,7 +33,7 @@
 
 <div align="center">
 
-**⚡ Automation & AI**
+<h3 align="center">⚡ Automation & AI</h3>
 
 <img src="icons/tech-n8n.svg" alt="n8n" width="123" height="78" />
 <img src="icons/tech-make.svg" alt="Make" width="123" height="78" />
@@ -45,7 +45,7 @@
 <img src="icons/tech-hermes-logo.svg" alt="Hermes Agent" width="123" height="78" />
 <img src="icons/tech-openclaw-logo.svg" alt="OpenClaw" width="123" height="78" />
 
-**🎨 Frontend**
+<h3 align="center">🎨 Frontend</h3>
 
 <img src="icons/stack-js.svg" alt="JavaScript" width="81" height="74" />
 <img src="icons/stack-react.svg" alt="React" width="81" height="74" />
@@ -54,7 +54,7 @@
 <img src="icons/stack-html.svg" alt="HTML5" width="81" height="74" />
 <img src="icons/stack-css.svg" alt="CSS3" width="81" height="74" />
 
-**⚙️ Backend**
+<h3 align="center">⚙️ Backend</h3>
 
 <img src="icons/stack-php.svg" alt="PHP" width="63" height="74" />
 <img src="icons/stack-laravel.svg" alt="Laravel" width="63" height="74" />
@@ -62,7 +62,7 @@
 <img src="icons/stack-nodejs.svg" alt="Node.js" width="63" height="74" />
 <img src="icons/stack-express.svg" alt="Express" width="63" height="74" />
 
-**🗄️ Database & Tools**
+<h3 align="center">🗄️ Database & Tools</h3>
 
 <img src="icons/stack-supabase.svg" alt="Supabase" width="77" height="74" />
 <img src="icons/stack-firebase.svg" alt="Firebase" width="77" height="74" />
