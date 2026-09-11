@@ -23,7 +23,7 @@
 <a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/portfolio-tile.svg?v=2" alt="Portfolio" width="84" height="94" /></a>
 <a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/linkedin-tile.svg?v=2" alt="LinkedIn" width="84" height="94" /></a>
 <a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/facebook-tile.svg?v=2" alt="Facebook" width="84" height="94" /></a>
-<a href="mailto:jpatrickcacdac@gmail.com" title="Email"><img src="icons/gmail-tile.svg?v=2" alt="Email" width="84" height="94" /></a>
+<a href="mailto:hello@patcacdac.com" title="Email"><img src="icons/gmail-tile.svg?v=2" alt="Email" width="84" height="94" /></a>
 
 </div>
 
