@@ -42,19 +42,34 @@
 <br />
 <img src="icons/tech-openai.svg" alt="OpenAI" width="123" height="78" />
 <img src="icons/tech-claude.svg" alt="Claude Code" width="123" height="78" />
-<img src="icons/tech-hermes.svg" alt="Hermes Agent" width="123" height="78" />
-<img src="icons/tech-openclaw.svg" alt="OpenClaw" width="123" height="78" />
+<img src="icons/tech-hermes.svg?v=2" alt="Hermes Agent" width="123" height="78" />
+<img src="icons/tech-openclaw.svg?v=2" alt="OpenClaw" width="123" height="78" />
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css" />
+<img src="icons/stack-js.svg" alt="JavaScript" width="81" height="74" />
+<img src="icons/stack-react.svg" alt="React" width="81" height="74" />
+<img src="icons/stack-tailwind.svg" alt="Tailwind" width="81" height="74" />
+<img src="icons/stack-bootstrap.svg" alt="Bootstrap" width="81" height="74" />
+<img src="icons/stack-html.svg" alt="HTML5" width="81" height="74" />
+<img src="icons/stack-css.svg" alt="CSS3" width="81" height="74" />
 
 **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,express" />
+<img src="icons/stack-php.svg" alt="PHP" width="63" height="74" />
+<img src="icons/stack-laravel.svg" alt="Laravel" width="63" height="74" />
+<img src="icons/stack-python.svg" alt="Python" width="63" height="74" />
+<img src="icons/stack-nodejs.svg" alt="Node.js" width="63" height="74" />
+<img src="icons/stack-express.svg" alt="Express" width="63" height="74" />
 
 **🗄️ Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase,git,github,vscode,postman,docker" />
+<img src="icons/stack-supabase.svg" alt="Supabase" width="77" height="74" />
+<img src="icons/stack-firebase.svg" alt="Firebase" width="77" height="74" />
+<img src="icons/stack-git.svg" alt="Git" width="77" height="74" />
+<img src="icons/stack-github.svg" alt="GitHub" width="77" height="74" />
+<img src="icons/stack-vscode.svg" alt="VS Code" width="77" height="74" />
+<img src="icons/stack-postman.svg" alt="Postman" width="77" height="74" />
+<img src="icons/stack-docker.svg" alt="Docker" width="77" height="74" />
 
 </div>
