@@ -20,10 +20,10 @@
 
 <div align="center">
 
-<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/portfolio-tile.svg?v=2" alt="Portfolio" width="84" height="94" /></a>
-<a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/linkedin-tile.svg?v=2" alt="LinkedIn" width="84" height="94" /></a>
-<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/facebook-tile.svg?v=2" alt="Facebook" width="84" height="94" /></a>
-<a href="mailto:hello@patcacdac.com" title="Email"><img src="icons/gmail-tile.svg?v=2" alt="Email" width="84" height="94" /></a>
+<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/card-portfolio.svg" alt="Portfolio" width="204" height="72" /></a>
+<a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/card-linkedin.svg" alt="LinkedIn" width="204" height="72" /></a>
+<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/card-facebook.svg" alt="Facebook" width="204" height="72" /></a>
+<a href="mailto:hello@patcacdac.com" title="Email"><img src="icons/card-email.svg" alt="Email" width="204" height="72" /></a>
 
 </div>
 
@@ -33,43 +33,11 @@
 
 <div align="center">
 
-<h3 align="center">⚡ Automations & AI Agents</h3>
+<img src="icons/panel-automation.svg" alt="Automations & AI Agents: n8n, Make, Zapier, GoHighLevel, OpenAI, Claude Code, Hermes Agent, OpenClaw" width="840" />
 
-<img src="icons/tech-n8n.svg" alt="n8n" width="123" height="78" />
-<img src="icons/tech-make.svg" alt="Make" width="123" height="78" />
-<img src="icons/tech-zapier.svg" alt="Zapier" width="123" height="78" />
-<img src="icons/tech-gohighlevel-logo.svg" alt="GoHighLevel" width="123" height="78" />
-<br />
-<img src="icons/tech-openai.svg" alt="OpenAI" width="123" height="78" />
-<img src="icons/tech-claude.svg" alt="Claude Code" width="123" height="78" />
-<img src="icons/tech-hermes-logo.svg" alt="Hermes Agent" width="123" height="78" />
-<img src="icons/tech-openclaw-logo.svg" alt="OpenClaw" width="123" height="78" />
+<img src="icons/panel-frontend.svg" alt="Frontend: JavaScript, React, Tailwind, Bootstrap, HTML5, CSS3" width="416" />
+<img src="icons/panel-backend.svg" alt="Backend: PHP, Laravel, Python, Node.js, Express" width="416" />
 
-<h3 align="center">🎨 Frontend</h3>
-
-<img src="icons/stack-js.svg" alt="JavaScript" width="81" height="74" />
-<img src="icons/stack-react.svg" alt="React" width="81" height="74" />
-<img src="icons/stack-tailwind.svg" alt="Tailwind" width="81" height="74" />
-<img src="icons/stack-bootstrap.svg" alt="Bootstrap" width="81" height="74" />
-<img src="icons/stack-html.svg" alt="HTML5" width="81" height="74" />
-<img src="icons/stack-css.svg" alt="CSS3" width="81" height="74" />
-
-<h3 align="center">⚙️ Backend</h3>
-
-<img src="icons/stack-php.svg" alt="PHP" width="63" height="74" />
-<img src="icons/stack-laravel.svg" alt="Laravel" width="63" height="74" />
-<img src="icons/stack-python.svg" alt="Python" width="63" height="74" />
-<img src="icons/stack-nodejs.svg" alt="Node.js" width="63" height="74" />
-<img src="icons/stack-express.svg" alt="Express" width="63" height="74" />
-
-<h3 align="center">🗄️ Database & Tools</h3>
-
-<img src="icons/stack-supabase.svg" alt="Supabase" width="77" height="74" />
-<img src="icons/stack-firebase.svg" alt="Firebase" width="77" height="74" />
-<img src="icons/stack-git.svg" alt="Git" width="77" height="74" />
-<img src="icons/stack-github.svg" alt="GitHub" width="77" height="74" />
-<img src="icons/stack-vscode.svg" alt="VS Code" width="77" height="74" />
-<img src="icons/stack-postman.svg" alt="Postman" width="77" height="74" />
-<img src="icons/stack-docker.svg" alt="Docker" width="77" height="74" />
+<img src="icons/panel-tools.svg" alt="Database & Tools: Supabase, Firebase, Git, GitHub, VS Code, Postman, Docker" width="840" />
 
 </div>
