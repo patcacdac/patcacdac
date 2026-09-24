@@ -33,11 +33,11 @@
 
 <div align="center">
 
-<img src="icons/panel-automation-v3.svg" alt="Automations & AI Agents: n8n, Make, Zapier, GoHighLevel, OpenAI, Claude Code, Hermes Agent, OpenClaw" width="840" />
+<img src="icons/panel-automation-v4.svg" alt="Automations & AI Agents: n8n, Make, Zapier, GoHighLevel, OpenAI, Claude Code, Hermes Agent, OpenClaw" width="840" />
 
-<img src="icons/panel-frontend-v3.svg" alt="Frontend: JavaScript, React, Tailwind, Bootstrap, HTML5, CSS3" width="416" />
-<img src="icons/panel-backend-v3.svg" alt="Backend: PHP, Laravel, Python, Node.js, Express" width="416" />
+<img src="icons/panel-frontend-v4.svg" alt="Frontend: JavaScript, React, Tailwind, Bootstrap, HTML5, CSS3" width="416" />
+<img src="icons/panel-backend-v4.svg" alt="Backend: PHP, Laravel, Python, Node.js, Express" width="416" />
 
-<img src="icons/panel-tools-v3.svg" alt="Database & Tools: Supabase, Firebase, Git, GitHub, VS Code, Postman, Docker" width="840" />
+<img src="icons/panel-tools-v4.svg" alt="Database & Tools: Supabase, Firebase, Git, GitHub, VS Code, Postman, Docker" width="840" />
 
 </div>
