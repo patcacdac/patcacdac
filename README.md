@@ -20,10 +20,10 @@
 
 <div align="center">
 
-<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/card-portfolio-v4.svg" alt="Portfolio" width="204" height="72" /></a>
-<a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/card-linkedin-v4.svg" alt="LinkedIn" width="204" height="72" /></a>
-<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/card-facebook-v4.svg" alt="Facebook" width="204" height="72" /></a>
-<a href="mailto:hello@patcacdac.com" title="Email"><img src="icons/card-email-v4.svg" alt="Email" width="204" height="72" /></a>
+<a href="https://www.patcacdac.com" title="Portfolio"><img src="icons/card-portfolio-v5.svg" alt="Portfolio" width="204" height="72" /></a>
+<a href="https://www.linkedin.com/in/patcacdac" title="LinkedIn"><img src="icons/card-linkedin-v5.svg" alt="LinkedIn" width="204" height="72" /></a>
+<a href="https://www.facebook.com/fwatwrick" title="Facebook"><img src="icons/card-facebook-v5.svg" alt="Facebook" width="204" height="72" /></a>
+<a href="mailto:hello@patcacdac.com" title="Email"><img src="icons/card-email-v5.svg" alt="Email" width="204" height="72" /></a>
 
 </div>
 
@@ -33,11 +33,11 @@
 
 <div align="center">
 
-<img src="icons/panel-automation-v6.svg" alt="Automations & AI Agents: n8n, Make, Zapier, GoHighLevel, OpenAI, Claude Code, Hermes Agent, OpenClaw" width="840" />
+<img src="icons/panel-automation-v7.svg" alt="Automations & AI Agents: n8n, Make, Zapier, GoHighLevel, OpenAI, Claude Code, Hermes Agent, OpenClaw" width="840" />
 
-<img src="icons/panel-frontend-v6.svg" alt="Frontend: JavaScript, React, Tailwind, Bootstrap, HTML5, CSS3" width="416" />
-<img src="icons/panel-backend-v6.svg" alt="Backend: PHP, Laravel, Python, Node.js, Express" width="416" />
+<img src="icons/panel-frontend-v7.svg" alt="Frontend: JavaScript, React, Tailwind, Bootstrap, HTML5, CSS3" width="416" />
+<img src="icons/panel-backend-v7.svg" alt="Backend: PHP, Laravel, Python, Node.js, Express" width="416" />
 
-<img src="icons/panel-tools-v6.svg" alt="Database & Tools: Supabase, Firebase, Git, GitHub, VS Code, Postman, Docker" width="840" />
+<img src="icons/panel-tools-v7.svg" alt="Database & Tools: Supabase, Firebase, Git, GitHub, VS Code, Postman, Docker" width="840" />
 
 </div>
